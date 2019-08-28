@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>b_Maintenance</name>
+   <name>div_View all must-sees</name>
    <tag></tag>
-   <elementGuidId>1b160864-0160-4a08-87e6-8ac4eb8eac1c</elementGuidId>
+   <elementGuidId>b62570aa-5aa4-49b0-9ee1-fb02f4bccbdc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='menu_maintenance_purgeEmployee']/b</value>
+         <value>//div[@id='root']/div[2]/div[2]/div/div/div/div[3]/div/div[2]/div/div/a/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,69 +17,62 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>b</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Maintenance</value>
+      <value>View all must-sees</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;wrapper&quot;)/div[@class=&quot;menu&quot;]/ul[1]/li[9]/a[@id=&quot;menu_maintenance_purgeEmployee&quot;]/b[1]</value>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1g4yje1&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-10wbrn2&quot;]/div[@class=&quot;css-1rr8ljn&quot;]/div[@class=&quot;css-16ry02l&quot;]/div[@class=&quot;css-10lidv5&quot;]/div[@class=&quot;css-1g4yje1&quot;]/div[@class=&quot;css-2udogg&quot;]/div[@class=&quot;css-c1kb9q&quot;]/div[@class=&quot;css-1cfptch&quot;]/a[@class=&quot;css-1owpnn1&quot;]/div[@class=&quot;css-14f60nc&quot;]/div[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='menu_maintenance_purgeEmployee']/b</value>
+      <value>//div[@id='root']/div[2]/div[2]/div/div/div/div[3]/div/div[2]/div/div/a/div/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Directory'])[1]/following::b[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check these off your Paris essential experiences list'])[1]/following::div[5]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::b[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paris must-sees'])[1]/following::div[5]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Records'])[2]/preceding::b[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map Data'])[1]/preceding::div[230]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate Records'])[1]/preceding::b[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map data ©2019 Google'])[1]/preceding::div[231]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[9]/a/b</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[10]/a/b</value>
+      <value>//div[3]/div/div[2]/div/div/a/div/div</value>
    </webElementXpaths>
 </WebElementEntity>
