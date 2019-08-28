@@ -22,7 +22,7 @@ WebUI.setText(findTestObject('Page_OrangeHRM/input_LOGIN Panel_txtUsername'), 'A
 
 WebUI.setEncryptedText(findTestObject('Page_OrangeHRM/input_Username_txtPassword'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
-WebUI.click(findTestObject('Page_OrangeHRM/input_Password_Submit'))
+WebUI.click(findTestObject('Page_OrangeHRM/a_Logout'))
 
 not_run: WebUI.click(findTestObject('Page_OrangeHRM/b_Maintenance'))
 
